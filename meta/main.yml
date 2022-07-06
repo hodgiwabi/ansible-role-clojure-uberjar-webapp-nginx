@@ -12,4 +12,4 @@ galaxy_info:
     - clojure
     - web
 dependencies:
-  - hodgiwabi.clojure-uberjar-webapp-common
+  - hodgiwabi.ansible_role_clojure_uberjar_webapp_common
